@@ -1,0 +1,26 @@
+
+# Python environments
+.venv/
+.venv314/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Dataset
+data/
+
+# Trained models
+artifacts/
+
+# MLflow tracking files
+mlruns/
+mlflow.db
+
+# Secrets
+.env
+.env.*
+
+# Editor files
+.vscode/
+.idea/
